@@ -7,6 +7,7 @@ test_downloaded*
 *.parquet
 *.pickle
 properties_prod.json
+properties.json
 
 
 #PRE-GENERATED STUFF
